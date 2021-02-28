@@ -1,4 +1,5 @@
 /**
+
  * jQuery Default Value Plugin v1.0
  * Progressive enhancement technique for inital input field values
  *
